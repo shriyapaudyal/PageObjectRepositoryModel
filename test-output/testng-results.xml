@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-06T21:25:24 GST" name="All Test Suite" finished-at="2022-01-06T21:25:49 GST" duration-ms="25036">
+    <groups>
+    </groups>
+    <test started-at="2022-01-06T21:25:24 GST" name="/Users/shriyapaudyal/Downloads/Test" finished-at="2022-01-06T21:25:49 GST" duration-ms="25036">
+      <class name="test.AddToCart">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.AddToCart@d4342c2]" started-at="2022-01-06T21:25:19 GST" name="setup" finished-at="2022-01-06T21:25:24 GST" duration-ms="4914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Goto_Home_Page()[pri:0, instance:test.AddToCart@d4342c2]" started-at="2022-01-06T21:25:24 GST" name="Goto_Home_Page" finished-at="2022-01-06T21:25:29 GST" duration-ms="5188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Goto_Home_Page -->
+        <test-method signature="Goto_Category_Furniture_Page()[pri:0, instance:test.AddToCart@d4342c2]" started-at="2022-01-06T21:25:29 GST" name="Goto_Category_Furniture_Page" finished-at="2022-01-06T21:25:38 GST" duration-ms="8920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Goto_Category_Furniture_Page -->
+        <test-method signature="Goto_Product_Details_Page()[pri:0, instance:test.AddToCart@d4342c2]" started-at="2022-01-06T21:25:38 GST" name="Goto_Product_Details_Page" finished-at="2022-01-06T21:25:43 GST" duration-ms="4479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Goto_Product_Details_Page -->
+        <test-method signature="Goto_Cart_Page()[pri:0, instance:test.AddToCart@d4342c2]" started-at="2022-01-06T21:25:43 GST" name="Goto_Cart_Page" finished-at="2022-01-06T21:25:49 GST" duration-ms="6422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Goto_Cart_Page -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test.AddToCart@d4342c2]" started-at="2022-01-06T21:25:49 GST" name="teardown" finished-at="2022-01-06T21:25:51 GST" duration-ms="2176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.AddToCart -->
+    </test> <!-- /Users/shriyapaudyal/Downloads/Test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

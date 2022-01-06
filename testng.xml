@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/shriyapaudyal/Downloads/Test">
+       <classes>
+           <class name="test.AddToCart">
+               <methods>
+
+                       <include name="Goto_Home_Page" />
+                       <include name="Goto_Category_Furniture_Page" />
+                       <include name="Goto_Product_Details_Page" />
+                       <include name="Goto_Cart_Page" />
+
+               </methods>
+
+
+           </class>
+
+       </classes>
+    </test>
+</suite>
